@@ -5,3 +5,6 @@ Copy A2 to H2, then right click "Total Price", press Insert Copied Cells, and th
 
 ## IMPORTANT NOTE!
 G2 and H2 is important to copy because it contains the logic for holding the decimal value of F2 and the table automatic numbering algorithm.
+
+## Happy Happy Coding!
+-Sincerely, Alif (KK93)
