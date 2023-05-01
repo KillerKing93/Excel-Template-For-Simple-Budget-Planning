@@ -1,6 +1,6 @@
-#A TEMPLATE THAT CAN BE USED TO MAKE A BUSINESS BUDGET PLAN
+# A TEMPLATE THAT CAN BE USED TO MAKE A BUSINESS BUDGET PLAN
 
-##TO USE
+## TO USE
 Copy A2 to H2, then right click "Harga Total", press Insert Copied Cells, and then click option "Shift cells down".
 
 ##IMPORTANT NOTE!
